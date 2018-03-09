@@ -24,24 +24,24 @@ insert dbo.NhaCungCap (
 NhaCC_ID, NhaCC_ten) values ('0005','Cty Sunshine')
 
 insert dbo.PhieuNhap (
-PhieuNhap_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
+PN_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
 insert dbo.PhieuNhap (
-PhieuNhap_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
+PN_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
 insert dbo.PhieuNhap (
-PhieuNhap_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
+PN_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
 insert dbo.PhieuNhap (
-PhieuNhap_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
+PN_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
 insert dbo.PhieuNhap (
-PhieuNhap_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
+PN_ID, HangHoa_ID, NgayNhap, SoLuong) values ('001','00001',2017-3-9,6)
 
 insert dbo.PhieuXuat (
-PhieuXuat_ID, HangHoa_ID, NgayXuat, SoLuong) values ('001','00001',2017-3-9,6)
+PX_ID, HangHoa_ID, NgayXuat, SoLuong) values ('001','00001',2017-3-9,6)
 insert dbo.PhieuXuat (
-PhieuXuat_ID, HangHoa_ID, NgayXuat, SoLuong) values ('002','00002',2017-3-9,6)
+PX_ID, HangHoa_ID, NgayXuat, SoLuong) values ('002','00002',2017-3-9,6)
 insert dbo.PhieuXuat (
-PhieuXuat_ID, HangHoa_ID, NgayXuat, SoLuong) values ('003','00003',2017-3-9,6)
+PX_ID, HangHoa_ID, NgayXuat, SoLuong) values ('003','00003',2017-3-9,6)
 insert dbo.PhieuXuat (
-PhieuXuat_ID, HangHoa_ID, NgayXuat, SoLuong) values ('004','00004',2017-3-9,6)
+PX_ID, HangHoa_ID, NgayXuat, SoLuong) values ('004','00004',2017-3-9,6)
 insert dbo.PhieuXuat (
-PhieuXuat_ID, HangHoa_ID, NgayXuat, SoLuong) values ('005','00005',2017-3-9,6)
+PX_ID, HangHoa_ID, NgayXuat, SoLuong) values ('005','00005',2017-3-9,6)
 
