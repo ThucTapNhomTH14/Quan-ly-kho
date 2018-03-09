@@ -1,1 +1,1 @@
-# Quan-ly-kho
+# He thong quan ly kho
